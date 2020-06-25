@@ -1,7 +1,7 @@
 /*!
-    * Start Bootstrap - Grayscale v6.0.2 (https://startbootstrap.com/themes/grayscale)
-    * Copyright 2013-2020 Start Bootstrap
-    * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-grayscale/blob/master/LICENSE)
+    * Start Bootstrap - Grayscale v6.0.2 (undefined)
+    * Copyright 2013-2020 Prithvi Singh
+    * Licensed under MIT (https://github.com/StartBootstrap/undefined/blob/master/LICENSE)
     */
     (function ($) {
     "use strict"; // Start of use strict
